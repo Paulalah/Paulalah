@@ -1,10 +1,10 @@
 <div align="center">
-  <img height="300" src="https://i.pinimg.com/originals/a4/8f/df/a48fdf4d804e605474a984b8eefa3fc8.gif"  />
+  <img height="200" src="https://i.pinimg.com/originals/a4/8f/df/a48fdf4d804e605474a984b8eefa3fc8.gif"  />
 </div>
 
 ###
 
-<h1 align="center">Olá! Eu sou a Paula.</h1>
+<h1 align="center">Olá! Me chamo Paula.</h1>
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<p align="center">- Meu nome é Paula Nunes e tenho 17 anos;<br>- Atualmente estou cursando Informatica no IFMA;<br>- Gosto de ler, ouvir musica, jogar, assistir, dormir e fotografar paisagens;<br>- Sou uma pessoa animada, extrovertida e criativa.<br>- Meus gêneros literários favoritos incluem fantasia, distopia e suspense.</p>
+<p align="center">- Meu nome é Paula Nunes e tenho 17 anos;<br>- Atualmente estou cursando Informatica no IFMA;<br>- Gosto de ler, ouvir musica, jogar, assistir, dormir e fotografar paisagens;<br>- Sou uma pessoa animada, extrovertida e criativa.<br>- meus gêneros literários favoritos incluem fantasia, distopia e suspense.</p>
 
 ###
 
@@ -53,14 +53,22 @@
 
 ###
 
-<img align="left" height="90" src="https://i.pinimg.com/736x/9f/fa/7d/9ffa7d05bf004c8d147d5dd5cc19a7e8.jpg"  />
+<img align="right" height="90" src="https://i.pinimg.com/736x/9f/fa/7d/9ffa7d05bf004c8d147d5dd5cc19a7e8.jpg"  />
 
 ###
 
-<div align="right">
+<div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="57" height="40" alt="instagram logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="57" height="40" alt="telegram logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="57" height="40" alt="gmail logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img height="400" src="https://i.pinimg.com/originals/6e/8f/d9/6e8fd9d436ba89d43e58e48c5b2368b2.gif"  />
 </div>
 
 ###
