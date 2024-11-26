@@ -12,7 +12,7 @@
 
 ###
 
-<p align="center">- Meu nome é Paula Nunes e tenho 17 anos;<br>- Desenvolvedora web;<br>- Atualmente estou cursando Informatica no IFMA;<br>- Gosto de ler, ouvir musica, jogar, assistir, dormir e fotografar paisagens;<br>- Sou uma pessoa animada, extrovertida e criativa.<br>- Meus gêneros literários favoritos incluem fantasia, distopia e suspense.</p>
+<p align="center">- Meu nome é Paula Nunes e tenho 17 anos;<br>- Atualmente estou cursando Informatica no IFMA;<br>- Gosto de ler, ouvir musica, jogar, assistir, dormir e fotografar paisagens;<br>- Sou uma pessoa animada, extrovertida e criativa.<br>- Meus gêneros literários favoritos incluem fantasia, distopia e suspense.</p>
 
 ###
 
