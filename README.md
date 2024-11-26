@@ -34,13 +34,7 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Paulalah/Paulalah/output/snake.svg" alt="Snake animation" />
-
-###
-
-<h2 align="left">Social mídia</h2>
+<h2 align="left">Redes sociais</h2>
 
 ###
 
