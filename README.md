@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="left">Olá! Me chamo Paula.</h2>
+<h2 align="center">Olá! Me chamo Paula.</h2>
 
 ###
 
@@ -17,6 +17,10 @@
 ###
 
 <h2 align="left">Minhas habilidades</h2>
+
+###
+
+<p align="left">Minhas habilidades abrangem diversas tecnologias, incluindo Python, HTML, CSS e JavaScript. Com essas ferramentas, sou capaz de criar páginas web dinâmicas e interativas. Além disso, como estudante de informática, possuo conhecimentos em Programação Orientada a Objetos (POO), desenvolvimento web, redes de computadores e fundamentos de hardware.</p>
 
 ###
 
@@ -36,14 +40,10 @@
 
 ###
 
-<p align="left">Minhas habilidades incluem Python, HTML, CSS e JavaScript. Com essas tecnologias, crio páginas web.</p>
-
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Paulalah&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Paulalah&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Paulalah&locale=en&mode=daily&theme=aura&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Paulalah&locale=en&mode=daily&theme=aura&hide_border=false&border_radius=5&order=3" height="190" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Paulalah&radius=16&theme=nightowl&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
