@@ -68,7 +68,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="400" src="https://i.pinimg.com/originals/6e/8f/d9/6e8fd9d436ba89d43e58e48c5b2368b2.gif"  />
+  <img height="400" src="https://i.pinimg.com/originals/6e/8f/d9/6e8fd9d436ba89d43e58e48c5b2368b2.gif"  /> 
 </div>
 
 ###
