@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="center">Olá! Me chamo Paula.</h2>
+<h1 align="center">Olá! Me chamo Paula.</h1>
 
 ###
 
